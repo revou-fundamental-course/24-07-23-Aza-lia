@@ -59,11 +59,6 @@ main {
 }
 main > div {
   align-content: start;
-  justify-content: center;
-}
-
-#col-3 {
-  justify-items: left;
 }
 
 #second_main {
