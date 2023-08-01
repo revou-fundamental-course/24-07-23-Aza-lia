@@ -199,7 +199,7 @@ label{
   }
   .col-s-1 {flex: 4 4 100%;}
   .col-s-2 {flex: 0.2 0.2 20%; margin-right: 30px;margin-top: 30px;}
-  .col-s-3 {flex: 0.7 0.7 70%;}
+  .col-s-3 {flex: 0.7 0.7 50%;}
   .col-s-4, .col-s-5, .col-s-6, .col-s-7, .col-s-8, .col-s-9 {justify-self: flex-start; flex: 0.5 0.5 50%;}
   h4 {
     height: fit-content;
