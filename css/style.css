@@ -56,10 +56,14 @@ main {
   flex-wrap: wrap;
   min-height: fit-content;
   align-content: start;
-  justify-content: center;
 }
 main > div {
   align-content: start;
+  justify-content: center;
+}
+
+#col-3 {
+  justify-content: left;
 }
 
 #second_main {
