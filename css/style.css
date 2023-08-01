@@ -63,7 +63,7 @@ main > div {
 }
 
 #col-3 {
-  justify-content: flex-start;
+  justify-items: left;
 }
 
 #second_main {
